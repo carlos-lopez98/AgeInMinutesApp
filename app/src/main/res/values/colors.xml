@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name ="textPrimary">#CFD186</color>
     <color name ="background">#52414C</color>
+    <color name = "lightBlue">#ADD8E6</color>
+    <color name = "pastelRed">#FF6961</color>
 </resources>
