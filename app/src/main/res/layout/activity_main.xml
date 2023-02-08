@@ -51,9 +51,10 @@
         android:backgroundTint="@color/pastelRed"/>
 
     <TextView
+        android:id="@+id/inputDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="05/11/1998"
+        android:text="..."
         android:layout_margin="10dp"
         android:textColor="@color/white"
         android:textSize="25sp"
@@ -62,16 +63,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CALCULATE YOUR "
+        android:text="Selected Age"
         android:textColor="#a6a6a6"
         android:textSize="25sp"
         android:textStyle="bold"
         />
 
     <TextView
+        android:id="@+id/dateInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="7,486,898"
+        android:text="..."
         android:layout_margin="10dp"
         android:textColor="@color/white"
         android:textSize="25sp"
